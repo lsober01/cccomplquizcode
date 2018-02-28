@@ -1,0 +1,18 @@
+h1 {font-style: normal;
+font-family: Verdana;
+color:purple;
+font-size: 45px;
+}
+
+h3 {font-style: normal;
+font-family: Arial;
+color:rgb(182, 42, 182);
+font-size:20px;
+}
+
+h4 {font-stretch: 1px;
+    font-style: normal;
+    font-family: Verdana;
+    color:rgb(131, 15, 131);
+    font-size: 14px;
+}
